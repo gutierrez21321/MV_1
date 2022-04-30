@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1650255459 source:c:\users\gutie\documents\proyectos\maquinavirtual\instrucciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+
+1650255159 c:\users\gutie\documents\proyectos\maquinavirtual\tipos.h
+
+1650255121 source:c:\users\gutie\documents\proyectos\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+
+1650219679 source:c:\users\gutie\documents\proyectos\maquinavirtual\ayudas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+
+1650220664 source:c:\users\gutie\documents\proyectos\maquinavirtual\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+
+1650219679 source:c:\users\gutie\desktop\maquinavirtual\ayudas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+
+1650255159 c:\users\gutie\desktop\maquinavirtual\tipos.h
+
+1650581574 source:c:\users\gutie\desktop\maquinavirtual\instrucciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+
+1650309505 source:c:\users\gutie\desktop\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+
+1650319052 source:c:\users\gutie\desktop\maquinavirtual\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+
